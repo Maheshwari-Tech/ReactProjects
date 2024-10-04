@@ -16,6 +16,7 @@ Currently, two official plugins are available:
 Vite is build tool to provide fast dev provcess for react project.
 
 ## Demo - 
+https://snju-reactjs-nasa-app.netlify.app 
 
 
 ## How to run this project? 
@@ -26,10 +27,12 @@ This will install all the dependencies.
 
 ## Description - 
 
-
+* Use Nasa API - APOD  (Astronomy picture of the day)
 
 ## Notes - 
 
 1. npm create vite@latest reactjs-nasa-app
+2. Used Vite, React and JavaScript
 
+ https://api.nasa.gov/
 
