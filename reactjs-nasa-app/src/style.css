@@ -104,7 +104,7 @@ footer button:hover {
   opacity: 0.6;
 }
 
-.sidebarContent {
+.sidebarContents {
   z-index: 15;
   position: relative;
   display: flex;
@@ -119,16 +119,16 @@ footer button:hover {
   background: #030615;
 }
 
-.sidebarContent h2 {
+.sidebarContents h2 {
   font-weight: 200;
   font-size: 1.4rem;
 }
 
-.sidebarContent div {
+.sidebarContents div {
   flex: 1;
 }
 
-.sidebarContent button {
+.sidebarContents button {
   background: transparent;
   color: white;
   border: none;
@@ -139,7 +139,7 @@ footer button:hover {
   padding: 1rem 0;
 }
 
-.sidebarContent button:hover {
+.sidebarContents button:hover {
   opacity: 0.7;
 }
 
@@ -187,7 +187,7 @@ footer button:hover {
     box-shadow: 0 0 40px 1px #030615;
   }
 
-  .sidebarContent {
+  .sidebarContents {
     margin: unset;
     width: 100%;
   }
