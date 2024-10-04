@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react-nasa-app/node_modules/@types/react'
 
 export default function Main() {
   return (
