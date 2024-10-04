@@ -36,3 +36,7 @@ This will install all the dependencies.
 
  https://api.nasa.gov/
 
+create a .env file with key - 
+VITE_NASA_API_KEY = 
+
+You can get its value from  https://api.nasa.gov/ . 

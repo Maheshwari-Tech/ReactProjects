@@ -34,7 +34,8 @@ function App() {
           const apiData = await res.json();
           setData(apiData);
           console.log('DATA from API: ', apiData);
-          localStorage.setItem(localKey, JSON.stringify(apiData));
+          if(!apiData.error)
+            localStorage.setItem(localKey, JSON.stringify(apiData));
         }catch(err){
           console.log(err.message);
         }
