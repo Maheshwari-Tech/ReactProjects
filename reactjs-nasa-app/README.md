@@ -15,7 +15,21 @@ Currently, two official plugins are available:
 
 Vite is build tool to provide fast dev provcess for react project.
 
+## Demo - 
 
 
+## How to run this project? 
+1. npm install 
+This will install all the dependencies. 
+2. npm run dev
+
+
+## Description - 
+
+
+
+## Notes - 
+
+1. npm create vite@latest reactjs-nasa-app
 
 
